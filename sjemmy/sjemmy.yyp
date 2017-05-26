@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "27ff13b6-1a48-4e2c-ae84-9300c90d4894",
+            "Value": {
+                "id": "702f1b79-3149-4fc5-b1a2-eacbfd01d9b8",
+                "resourcePath": "objects\\obj_control\\obj_control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2a96f9fa-868e-452b-8c49-556d25269ccc",
             "Value": {
                 "id": "ef81ca5f-4f94-4bb2-bc8e-331c33ca1127",
                 "resourcePath": "views\\2a96f9fa-868e-452b-8c49-556d25269ccc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3754081a-1c0a-4c3e-851f-69ac8a0a9d7e",
+            "Value": {
+                "id": "b7474692-2647-427c-9b71-739f6521b0df",
+                "resourcePath": "sprites\\green\\green.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -111,6 +127,22 @@
             }
         },
         {
+            "Key": "8cce03b4-a96e-4d36-819a-a2f56205dcef",
+            "Value": {
+                "id": "779168c3-dd71-4ca7-b682-58c308750c73",
+                "resourcePath": "sprites\\yellow\\yellow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91540bd1-47e0-4415-b04c-757a6c8e50a2",
+            "Value": {
+                "id": "e21b8079-619a-44f5-8b2a-e4a2f21aecd1",
+                "resourcePath": "sprites\\blue\\blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "703e7d8a-d2b3-4124-8187-785719ff1f62",
@@ -140,6 +172,14 @@
                 "id": "7b049ef7-9a32-43ab-b3d2-8d640c147d23",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d07a8ac1-ed9d-4a19-aedf-32a407dc54e2",
+            "Value": {
+                "id": "46788347-3fa3-4b28-86fd-9da5f4079c8e",
+                "resourcePath": "sprites\\red\\red.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
