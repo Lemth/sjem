@@ -42,7 +42,7 @@
             "Key": "05ef73e5-f241-4890-9cfa-78a5d4dd310b",
             "Value": {
                 "id": "7bfc6252-c2b9-4178-96e2-9148d1bd5c72",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\base_sprites\\base_sprites.yy",
                 "resourceType": "GMSprite"
             }
         },
